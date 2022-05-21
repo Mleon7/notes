@@ -1,3 +1,7 @@
+---
+description: https://shimo.im/docs/XKq4MJ8jbKfogNkN/ 「C」，可复制链接后用石墨文档 App 或小程序打开
+---
+
 # C
 
 2022-05-21
@@ -57,7 +61,7 @@ python3 hello.py
 
 常用：int，double
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 ### 2-3 变量使用方法以及对应输出方式
 
@@ -214,11 +218,11 @@ printf("character = %d\n", character);
 
 ### 9-0 continue
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 ### 9-1 break
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 ### 9-2 continue和break总结
 
@@ -243,6 +247,8 @@ do
 ### 10-0 for
 
 > 补充：定义表量不赋值，这叫什么？（声明变量）
+
+![](<.gitbook/assets/image (2).png>)
 
 ### 10-1 ★for语句的执行流程
 
@@ -291,6 +297,8 @@ do
 
 这张图中就有三个数组。
 
+![](<.gitbook/assets/image (5).png>)
+
 数组的应用：（7:28处）
 
 [12-0数组的含义和用途](https://www.bilibili.com/video/BV1qE411d7Zx?p=35\&share\_source=copy\_web)
@@ -306,6 +314,8 @@ int plants[5] = {125, 100, 50};
 ```
 
 C语言中，数组未赋值的内容默认为0，超过数组大小的会给垃圾值（内存泄漏？）&#x20;
+
+![](<.gitbook/assets/image (4).png>)
 
 ```
 // 输出验证
@@ -354,6 +364,8 @@ for(int i = 0; i < 5; i++)
 输出：该年该月份的天数。
 
 常见解决方法：
+
+![](<.gitbook/assets/image (3).png>)
 
 1. if else
 2. switch 更好的解决方法：表驱动法（这里指使用数组）。
