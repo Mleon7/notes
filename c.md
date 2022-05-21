@@ -57,6 +57,8 @@ python3 hello.py
 
 常用：int，double
 
+![](<.gitbook/assets/image (3).png>)
+
 ### 2-3 变量使用方法以及对应输出方式
 
 C语言（静态语言）：
@@ -212,7 +214,11 @@ printf("character = %d\n", character);
 
 ### 9-0 continue
 
+![](<.gitbook/assets/image (2).png>)
+
 ### 9-1 break
+
+![](<.gitbook/assets/image (1).png>)
 
 ### 9-2 continue和break总结
 
