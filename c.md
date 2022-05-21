@@ -8,9 +8,15 @@ description: https://shimo.im/docs/XKq4MJ8jbKfogNkN/ 「C」，可复制链接�
 
 > 选摘了一小部分内容记在笔记中，且掺杂了自己的一些理解。 学习源码：
 >
+> [https://github.com/Mleon7/notes.git](https://github.com/Mleon7/notes.git)
 >
+> 主要教程：
 >
-> 主要教程： [C语言教程（全网最具有比喻形象的） by Micro\_Frank](https://www.bilibili.com/video/BV1qE411d7Zx?p=51\&share\_source=copy\_web) 其他参考： [C语言 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) [python 菜鸟教程](https://www.runoob.com/python/python-tutorial.html)
+> &#x20;[C语言教程（全网最具有比喻形象的） by Micro\_Frank](https://www.bilibili.com/video/BV1qE411d7Zx?p=51\&share\_source=copy\_web)&#x20;
+>
+> 其他参考：
+>
+> &#x20;[C语言 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) [python 菜鸟教程](https://www.runoob.com/python/python-tutorial.html)
 
 ### 1-0 第一个程序超详细讲解
 
