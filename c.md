@@ -248,7 +248,7 @@ do
 
 > 补充：定义表量不赋值，这叫什么？（声明变量）
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (3).png>)
 
 ### 10-1 ★for语句的执行流程
 
@@ -297,7 +297,7 @@ do
 
 这张图中就有三个数组。
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (12).png>)
 
 数组的应用：（7:28处）
 
@@ -315,7 +315,7 @@ int plants[5] = {125, 100, 50};
 
 C语言中，数组未赋值的内容默认为0，超过数组大小的会给垃圾值（内存泄漏？）&#x20;
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (10).png>)
 
 ```
 // 输出验证
@@ -365,7 +365,7 @@ for(int i = 0; i < 5; i++)
 
 常见解决方法：
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (6).png>)
 
 1. if else
 2. switch 更好的解决方法：表驱动法（这里指使用数组）。
@@ -400,7 +400,13 @@ int* p = &sun_flower;
 
 注：在这个类比中，如果是“\&p”指的是快捷方式的地址，即桌面。
 
+![](<.gitbook/assets/image (5).png>)
+
 使用指针，\*p----双击快捷方式。
+
+![](<.gitbook/assets/image (11).png>)
+
+
 
 类比2：
 
@@ -423,17 +429,25 @@ printf("ptr = %p\n", ptr);
 int* p;
 ```
 
+![](<.gitbook/assets/image (4).png>)
+
 （野指针，病毒）
 
 补充：
 
 使用64位和32位输出的地址是不一样的：
 
+![](<.gitbook/assets/image (9).png>)
+
+![](<.gitbook/assets/image (1).png>)
+
 ### 15-2 指针保存数组地址
 
 （来自弹幕：在C语言中，保存数组是通过保存数组第一个位置的地址，后续的值通过地址的递增来实现）
 
 对比：
+
+![](<.gitbook/assets/image (7).png>)
 
 变量：
 
