@@ -1,7 +1,3 @@
----
-description: '[linux 石墨文档](https://shimo.im/docs/XKq4MJZYNDC4JNkN/)'
----
-
 # linux
 
 2022-05-21

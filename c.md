@@ -6,7 +6,7 @@
 
 > 选摘了一小部分内容记在笔记中，且掺杂了自己的一些理解。 学习源码：
 >
-> [https://github.com/Mleon7/notes.git](https://github.com/Mleon7/notes.git)
+> [https://github.com/Mleon7/code.git](https://github.com/Mleon7/code.git)
 >
 > 主要教程：
 >
