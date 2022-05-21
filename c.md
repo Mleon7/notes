@@ -1,10 +1,8 @@
----
-description: https://shimo.im/docs/XKq4MJ8jbKfogNkN/ 「C」，可复制链接后用石墨文档 App 或小程序打开
----
-
 # C
 
 2022-05-21
+
+[C 石墨文档](https://shimo.im/docs/XKq4MJ8jbKfogNkN/)
 
 > 选摘了一小部分内容记在笔记中，且掺杂了自己的一些理解。 学习源码：
 >
