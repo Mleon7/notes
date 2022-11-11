@@ -40,6 +40,26 @@ gcc -o hello hello.c
 ./hello
 ```
 
+### 后台管理
+
+1. 将标准输出放到name.log中
+
+`nohup python -u scripts.py > name.log 2>&1 &`
+
+只输出错误信息到日志文件
+
+`nohup ./program >/dev/null 2>log &`
+
+什么信息也不要
+`nohup python3 main.py >/dev/null 2>&1 &`
+
+2. 查看后台，杀死后台
+
+`ps ux`
+
+`kill PID_NUMBER`
+
+
 ### vim
 
 多行注释：
@@ -96,4 +116,12 @@ set ignorecase # 搜索时忽略大小写。
 set noerrorbells # 出错时，不要发出响声。
 set visualbell # 出错时，发出视觉提示，通常是屏幕闪烁。
 set autoread # 开文件监视。如果在编辑过程中文件发生外部改变（比如被别的编辑器编辑了），就会发出提示。
+```
+
+中文乱码：
+
+```
+set fileencodings=utf-8,ucs-bom,gb180830,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
 ```
